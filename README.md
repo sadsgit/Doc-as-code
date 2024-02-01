@@ -1,2 +1,3 @@
 # Doc-as-code
-This will describe codes into plain text
+This will describe codes in plain text.
+##API documentation
